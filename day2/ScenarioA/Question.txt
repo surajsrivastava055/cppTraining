@@ -1,3 +1,5 @@
+create a class Vehicle for following attribures.
+
 - _id which is an alphanumeric string
 - _brand which is a string
 - _type which is either CAR, BIKE or OTHER
